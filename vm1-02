@@ -1,4 +1,4 @@
-yum install bind bind-utils -y
+yum -y install bind bind-utils
 echo '//
 // named.conf
 //
